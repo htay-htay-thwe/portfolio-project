@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin-top: 70px;
+}
+.name{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+h2{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: -35px;
+}
+.contact{
+    font-size: 20px;
+    padding: 20px 30px;
+    border: 1px solid black;
+    max-width: 100px;
+    background: rgb(126, 126, 232);
+    margin-left: 700px;
+    border-radius:5px ;
+    color: white;
+}
