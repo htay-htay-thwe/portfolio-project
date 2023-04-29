@@ -1,7 +1,4 @@
-body{
-    text-align: center;
-    margin-top: 70px;
-}
+
 .name{
     font-size: 50px;
     font-weight: bold;
@@ -12,13 +9,21 @@ h2{
     font-weight: lighter;
     margin-top: -35px;
 }
-.contact{
-    font-size: 20px;
-    padding: 20px 30px;
-    border: 1px solid black;
-    max-width: 100px;
-    background: rgb(126, 126, 232);
-    margin-left: 700px;
-    border-radius:5px ;
-    color: white;
+section{
+    text-align: center;
+    padding: 50px 50px;
+    background: rgb(243, 242, 245);
+}
+h3{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    
+
+}
+.yogurt{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.one-paragraph{
+    font-size:22px;
 }
